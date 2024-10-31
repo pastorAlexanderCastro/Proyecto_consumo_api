@@ -1,0 +1,11 @@
+{
+  "name": "proyecto_consumo_api",
+  "version": "1.0.0",
+  "description": "Proyecto de de consumo de una API \tDE PELICUCLAS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
